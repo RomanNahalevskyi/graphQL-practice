@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('@/assets/fonts/NetflixSans-Regular.woff2');
+}
+
+@font-face {
+    font-family: nf-icon;
+    src: url('@/assets/fonts/nf-icon-v1-93.woff');
+}
+
+body {
+    font-family: 'Netflix Sans', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+body.overlay {
+    overflow: hidden;
+}
