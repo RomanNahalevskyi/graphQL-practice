@@ -1,6 +1,11 @@
-# netflix-clone
+# Netflix clone with GraphQL
 
-This template should help get you started developing with Vue 3 in Vite.
+### Stack:
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Apollo GraphQL](https://www.apollographql.com/)
+- [GraphQL](https://graphql.org/)
 
 ## Recommended IDE Setup
 
